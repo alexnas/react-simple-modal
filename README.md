@@ -1,4 +1,4 @@
-# Vue3 Task Manager
+# React Simple Modal
 
 This is a simple React Modal realisation. It uses React Portal to link modal window to the app root.
 
